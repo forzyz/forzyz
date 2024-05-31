@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ruslan</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/CuuSHzuc0O166MRfjt.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forzyz&label=Profile%20views&color=0e75b6&style=flat" alt="forzyz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forzyz" alt="forzyz" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/CuuSHzuc0O166MRfjt.webp" />
+
 
 - 🔭 I’m currently working on [Vue Shop](https://github.com/forzyz/vue-shop)
 
