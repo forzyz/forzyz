@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [cars-site](https://github.com/forzyz/cars-site)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Python, Go.**
+- 💬 Ask me about **React.js, Javascript, Typescript,**
 
 - 📫 How to reach me **zimpuytel@gmail.com**
 
