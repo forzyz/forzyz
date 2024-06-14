@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [cars-site](https://github.com/forzyz/cars-site)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **React, Javascript, Typescript**
 
